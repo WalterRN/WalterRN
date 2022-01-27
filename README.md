@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho com projetos de AutoCad ...
 - 🌱 Estudando bacharelado em ciência da computação / Linguagem...
-- 🐱‍👤 Formado em Engenharia civil
+- 🤖 Formado em Engenharia civil
 - 😄 Pronouns: ele/dele
 
 <div align="center">
