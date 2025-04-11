@@ -11,7 +11,7 @@
 
 ---
 
-## My Skill Set  
+## Habilidades 
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -28,7 +28,7 @@
 
 ---
 
-## Connect with me  
+## Redes
 <div align="center">
   <a href="https://www.linkedin.com/in/walter-rutkowski-neto-7374b7137/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -37,18 +37,9 @@
 
 ---
 
-## GitHub Stats  
+## GitHub Status  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WalterRN&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>  
 
----
 
-## Recent Blog Posts  
-*(Em breve...)*
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=WalterRN&&style=flat-square" align="center" />
-</div>  
