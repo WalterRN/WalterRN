@@ -1,25 +1,15 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 60%" />
 </div>  
-  
 
 ### <div align="center">Sou Walter, engenheiro civil e desenvolvedor Android nas horas vagas 👨‍💻 aprendendo Java e Kotlin desde que descobri que também dá pra construir coisas com código 🚀</div>  
-  
 
 - 🎓 Estudante de Desenvolvimento Android — explorando Java e Kotlin com muita curiosidade  
-  
-
 - 🏗️ Engenheiro Civil nas horas que não estou codando  
-  
-
 - 🚀 Tentando transformar ideias em apps (e apps em projetos que funcionam!)  
-  
-
 - ☕ Sobrevivente à base de café, bugs e vontade de aprender  
-  
 
-<br/>  
-
+---
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -32,52 +22,33 @@
 
 </td><td valign="top" width="33%">
 
-
-
 </td><td valign="top" width="33%">
-
-
 
 </td></tr></table>  
 
-<br/>  
-
+---
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/walter-rutkowski-neto-7374b7137/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+  <a href="https://www.linkedin.com/in/walter-rutkowski-neto-7374b7137/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>  
 </div>  
-  
 
-<br/>  
+---
 
+## GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WalterRN&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>  
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=WalterRN&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
+---
 
 ## Recent Blog Posts  
-  
+*(Em breve...)*
 
-<br/>  
-
-  
-
-<br/>  
+---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=WalterRN&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=WalterRN&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
