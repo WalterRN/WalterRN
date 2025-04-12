@@ -11,10 +11,10 @@
 
 ---
 
-## Habilidades 
-<table><tr><td valign="top" width="33%">
+### 🧑‍💻 Habilidades 
+<tr><td valign="top" width="33%">
 
-<div align="center">  
+<div align="left">  
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="25" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
@@ -28,8 +28,8 @@
 
 ---
 
-## Redes
-<div align="center">
+### 🌐 Redes
+<div align="left">
   <a href="https://www.linkedin.com/in/walter-rutkowski-neto-7374b7137/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>  
@@ -37,9 +37,9 @@
 
 ---
 
-## GitHub Status  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WalterRN&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>  
+### 📊 GitHub Status  
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=WalterRN&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" />
+</div>
 
 
